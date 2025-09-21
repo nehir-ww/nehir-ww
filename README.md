@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello👋
+## I'm currently a freshman student at Bilkent, and studying computer science ! ⚡⚡
 <!--
 **nehir-ww/nehir-ww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
